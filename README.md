@@ -58,7 +58,7 @@
 ## 💡 Featured Projects
 <p align="center">
   <a href="https://github.com/YourUsername/CG-Calculator" target="_blank">
-    <img src="https://media.giphy.com/media/L0dVZUZD3vssSjNpwC/giphy.gif" width="200" alt="CG Calculator" title="CG Calculator" />
+    <p> CG CALCULATOR <p>
   </a>
   <a href="https://github.com/YourUsername/Doctor-Patient-Portal" target="_blank">
     <img src="https://media.giphy.com/media/3ohhwvN6slP6I1Hn46/giphy.gif" width="200" alt="Doctor-Patient Portal" title="Doctor-Patient Portal" />
@@ -74,7 +74,7 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF5733/YourUsername" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/FF5733/DEBAPALLAB" alt="GitHub Contribution Graph" />
 </p>
 
 ---
