@@ -37,20 +37,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEBAPALLAB&show_icons=true&theme=radical&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAPALLAB&layout=compact&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEBAPALLAB&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&row=1&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DEBAPALLAB&theme=radical&row=1&column=5" />
 </p>
 
 ---
