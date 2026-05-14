@@ -4,7 +4,7 @@
 
 <p align="center">
   Full-stack engineer and product builder with 3+ years shipping end-to-end web applications.<br/>
-  Founder @ <strong>Lucide Tech</strong> · IIIT Nagpur + IIT Madras (BS Data Science) · Based in Nashik
+  Founder @ <strong>Lucide Tech</strong> · IIIT Nagpur + IIT Madras (BS Data Science) · Based in Nagpur
 </p>
 
 <p align="center">
